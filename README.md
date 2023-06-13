@@ -61,7 +61,7 @@ Video Presntation will be droped soon
 
 ### Key Features <a name="key-features"></a>
 
-- **[Create classes and inheritence added]**
+- **Created rails app**
 
 <p align="right">(<a href="#readme-top"></a>)</p>
 
